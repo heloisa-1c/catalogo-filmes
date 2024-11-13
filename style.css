@@ -1,18 +1,18 @@
 body{
     color:#83b4bb(198,8,245);
-    background-color: #83b4bb;
+    background-color: #11d7f1;
     margin: Opx;
 }
 
 head{
-    border-bottom:solid 2px #83b4bb(42,122,228) ;
+    border-bottom:solid 2px #a7dee6(42,122,228) ;
     padding: 20px;
     font-size: 32px;
-    color:#83b4bb(42,122,228);
+    color:#2dcde2(42,122,228);
 }
 
 .chamada{
-    background-color: #83b4bb(184,156,213);
+    background-color: #0ea2b6(184,156,213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -32,8 +32,8 @@ head{
     }
 
     footer{
-        background-color: #83b4bb;
-        color: #83b4bb(42,122,228);
+        background-color: #d1f8fd;
+        color: #80e6f3(42,122,228);
         bottom: 0;
         position: fixed;
         width: 100%;
@@ -44,5 +44,5 @@ head{
         text-align: center;
         font-size: 14px;
         margin-top: 3px;
-        
+
     }
