@@ -1,3 +1,48 @@
 body{
-    background-color: rgb(145, 92, 196);
+    color:#83b4bb(198,8,245);
+    background-color: #83b4bb;
+    margin: Opx;
 }
+
+head{
+    border-bottom:solid 2px #83b4bb(42,122,228) ;
+    padding: 20px;
+    font-size: 32px;
+    color:#83b4bb(42,122,228);
+}
+
+.chamada{
+    background-color: #83b4bb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    }
+
+    .chamada-texto {
+        margin-right: 5%;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    footer{
+        background-color: #83b4bb;
+        color: #83b4bb(42,122,228);
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+
+    }
+
+    footer p {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 3px;
+        
+    }
